@@ -1,0 +1,66 @@
+
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,107,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+
+.apresentacao img{
+    width: 250px;
+    height: 250px;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+.perguntas{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+.conteudo{
+    text-align: center;
+    display:flexbox;
+}
+
+
+.apresentacao{
+    text-align: center;
+    display:flexbox;
+}
+
+.conteudo input{
+    text-align: center;
+    height: 23px;
+}
+
+.conteudo button{
+    background-color: crimson;
+    border-color: crimson;
+    color: aliceblue;
+    height: 29px;
+}
+
+.final{
+    background-color: rgb(27, 27, 27);
+    text-align: center;
+    height: 80px;
+}
+
+.final img{
+    padding-top: 20px;
+}
+
+
+.final h3{
+    display: inline;
+    color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
